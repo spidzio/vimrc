@@ -1,0 +1,9 @@
+[user]
+	name = Łukasz Pająk
+	email = lukasz.pajak@softiti.com
+[core]
+	excludesfile = /home/RINF/lupaja/.gitignore_global
+[color]
+	ui = true
+[pull]
+	ff = only
